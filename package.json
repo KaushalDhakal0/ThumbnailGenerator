@@ -1,6 +1,6 @@
 {
-  "name": "thumbnail-generator",
-  "version": "1.0.0",
+  "name": "thumbnail-generator-kaushal",
+  "version": "1.0.2",
   "description": "Generate thumbnails for documents (PDF, DOCX, XLS) and images.",
   "main": "src/index.js",
   "bin": {
