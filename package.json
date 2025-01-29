@@ -1,0 +1,17 @@
+{
+  "name": "thumbnail-generator",
+  "version": "1.0.0",
+  "description": "Generate thumbnails for documents (PDF, DOCX, XLS) and images.",
+  "main": "src/index.js",
+  "bin": {
+    "thumbnail-gen": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.0"
+  },
+  "author": "Kaushal Dhakal",
+  "license": "MIT"
+}
